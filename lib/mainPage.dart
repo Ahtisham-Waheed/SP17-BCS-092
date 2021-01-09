@@ -370,7 +370,7 @@ class TaskCard extends StatelessWidget {
                       style: Theme.of(context)
                           .textTheme
                           .title
-                          .copyWith(color: Colors.black54)),
+                          .copyWith(color: Colors.black87)),
                 ),
               ),
               Spacer(),
