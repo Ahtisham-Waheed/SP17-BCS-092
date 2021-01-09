@@ -11,7 +11,7 @@ class splash extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: AnimatedSplashScreen(
-        splash: Image.asset('images/logo.png'),
+        splash: Image.asset('images/icon.png'),
         nextScreen: loginScreen(),
         splashTransition: SplashTransition.rotationTransition,
         duration: 4000,
