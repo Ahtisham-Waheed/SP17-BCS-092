@@ -19,7 +19,7 @@ class TaskProgressIndicator extends StatelessWidget {
                 children: [
                   Container(
                     height: _height,
-                    color: Colors.grey.withOpacity(0.1),
+                    color: Colors.greenAccent.withOpacity(0.1),
                   ),
                   AnimatedContainer(
                     height: _height,
