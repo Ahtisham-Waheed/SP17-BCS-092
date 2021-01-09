@@ -76,7 +76,7 @@ class _AddTaskScreenState extends State<AddTaskScreen> {
                       border: InputBorder.none,
                       hintText: 'Category Name...',
                       hintStyle: TextStyle(
-                        color: Colors.black26,
+                        color: Colors.blue,
                       )),
                   style: TextStyle(
                       color: Colors.black54,
