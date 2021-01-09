@@ -14,7 +14,7 @@ class splash extends StatelessWidget {
         splash: Image.asset('images/logo.png'),
         nextScreen: loginScreen(),
         splashTransition: SplashTransition.rotationTransition,
-        duration: 3000,
+        duration: 4000,
         backgroundColor: Colors.grey[200],
       ),
     );
