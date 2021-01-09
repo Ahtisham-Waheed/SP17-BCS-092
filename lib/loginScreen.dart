@@ -12,9 +12,9 @@ class loginScreen extends StatelessWidget {
     BuildContext context;
   }
 
-  Color primaryColor = Colors.greenAccent;
+  Color primaryColor = Colors.lightGreenAccent;
   Color secondaryColor = Colors.white;
-  Color logoColor = Colors.blue;
+  Color logoColor = Colors.lightBlueAccent;
 
   String email, password;
   final TextEditingController nameController = TextEditingController();
