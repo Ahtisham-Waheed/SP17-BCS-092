@@ -69,7 +69,7 @@ class _EditCardScreenState extends State<EditTaskScreen> {
                 Text(
                   'Category will help you group related task!',
                   style: TextStyle(
-                      color: Colors.black38,
+                      color: Colors.orangeAccent,
                       fontWeight: FontWeight.w600,
                       fontSize: 16.0),
                 ),
